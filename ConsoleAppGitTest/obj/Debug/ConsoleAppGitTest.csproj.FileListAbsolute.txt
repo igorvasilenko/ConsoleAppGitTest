@@ -5,3 +5,10 @@ C:\Коммандный проект\ConsoleAppGitTest\ConsoleAppGitTest\obj\Deb
 C:\Коммандный проект\ConsoleAppGitTest\ConsoleAppGitTest\obj\Debug\ConsoleAppGitTest.csproj.CoreCompileInputs.cache
 C:\Коммандный проект\ConsoleAppGitTest\ConsoleAppGitTest\obj\Debug\ConsoleAppGitTest.exe
 C:\Коммандный проект\ConsoleAppGitTest\ConsoleAppGitTest\obj\Debug\ConsoleAppGitTest.pdb
+C:\Коммандный проект\Test\ConsoleAppGitTest\ConsoleAppGitTest\bin\Debug\ConsoleAppGitTest.exe.config
+C:\Коммандный проект\Test\ConsoleAppGitTest\ConsoleAppGitTest\bin\Debug\ConsoleAppGitTest.exe
+C:\Коммандный проект\Test\ConsoleAppGitTest\ConsoleAppGitTest\bin\Debug\ConsoleAppGitTest.pdb
+C:\Коммандный проект\Test\ConsoleAppGitTest\ConsoleAppGitTest\obj\Debug\ConsoleAppGitTest.csprojAssemblyReference.cache
+C:\Коммандный проект\Test\ConsoleAppGitTest\ConsoleAppGitTest\obj\Debug\ConsoleAppGitTest.csproj.CoreCompileInputs.cache
+C:\Коммандный проект\Test\ConsoleAppGitTest\ConsoleAppGitTest\obj\Debug\ConsoleAppGitTest.exe
+C:\Коммандный проект\Test\ConsoleAppGitTest\ConsoleAppGitTest\obj\Debug\ConsoleAppGitTest.pdb
